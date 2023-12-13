@@ -66,4 +66,5 @@ Conclusion
 
 The Fashion Clothing Recommender System project successfully delivers a functional recommendation engine, incorporating both SVD and ALS approaches. The team's focus on enhancing the shopping experience, understanding customer preferences, and considering physical features lays a solid foundation for ongoing improvements. Continuous monitoring, adaptation to trends, and user feedback will be crucial for refining the system and staying competitive in the dynamic fashion industry.
 
-Note: This detailed README provides an in-depth overview of the Fashion Clothing Recommender System project. For additional details and documentation, refer to the complete project documentation.
+Note: This detailed README provides an in-depth overview of the Fashion Clothing Recommender System project.
+
