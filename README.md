@@ -31,7 +31,8 @@ The project explores a Rent the Runway dataset consisting of 192,544 rows and 15
 ![Image 1](https://github.com/Ones-Muiru/Dsc-PT04-Phase-4-Project/blob/Bernadette/Visualizations/Capture.PNG)
 - Collaborative Filtering with SVD
 Utilizing the Surprise library, the project implements collaborative filtering with SVD. Sentiment analysis is incorporated to create hybrid ratings, providing a nuanced approach to user satisfaction.
-![Image 1](Visualizations/wordcloud.PNG)
+![wordcloud (1)](https://github.com/Ones-Muiru/Dsc-PT04-Phase-4-Project/assets/128042986/b203f4af-8016-480f-8ae3-1811f5e3306f)
+
 - ALS Model Exploration
 The project extends its collaborative filtering exploration with the ALS optimization approach. ALS is particularly beneficial for scenarios with sparse data, contributing to efficient parallelization and handling of missing values.
 
