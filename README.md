@@ -18,11 +18,8 @@ The primary goal is to create a dynamic engine that evolves with user feedback, 
 2. Improve Shopping Experience
 By offering personalized recommendations, the project aims to significantly improve the overall shopping experience. Personalization is expected to increase user satisfaction, loyalty, and, consequently, boost revenue for fashion retailers.
 
-3. Identify Trends in Customer Choices
-Through exploratory data analysis, the project seeks to uncover underlying trends in customer choices. This includes analyzing the distribution of rented items for different occasions such as weddings, formal affairs, and parties.
-
-4. Understand People's Physical Features
-The project delves into the dataset to understand users' physical features, such as body type, bust size, height, weight, and age. This information is crucial for guiding recommendations and ensuring the clothing fits well.
+3. Help the retailer better understand customer choices, likes and physical features.
+   
 
 Key Features
 - Dataset Analysis
