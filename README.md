@@ -2,7 +2,8 @@
 Fashion Clothing Recommender System
 # Fashion Clothing Recommender System ✨
 
-![Fashion house ](Visualizations/images.png)
+
+![fashion house](https://github.com/Ones-Muiru/Dsc-PT04-Phase-4-Project/assets/128042986/21de6b6a-2ae6-43f3-a404-ba13e7752939)
 
 
 Project Extravaganza
